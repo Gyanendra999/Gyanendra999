@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gyanendra999" alt="gyanendra999" /></a> </p>
 
-- 🌱 I’m currently learning **python for data science!**
+- 🌱 I’m currently learning **python for data science!!**
 
 - 📫 How to reach me **gyanendra731466@gmail.com**
 
