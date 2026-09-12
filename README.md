@@ -87,18 +87,18 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gyanendra999&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyanendra999&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="170"/>
+  <img src="https://ghstats.dev/api/card?username=gyanendra999&theme=tokyonight" alt="GitHub stats" height="170"/>
+  <img src="https://ghstats.dev/api/langs?username=gyanendra999&theme=tokyonight&layout=bar" alt="Top languages" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gyanendra999&theme=tokyonight&hide_border=true" alt="Contribution streak" />
+  <img src="https://ghstats.dev/api/mini?username=gyanendra999&metric=streak&color=0e75b6" alt="Current streak" />
+  <img src="https://ghstats.dev/api/mini?username=gyanendra999&metric=stars&color=0e75b6" alt="Total stars" />
+  <img src="https://ghstats.dev/api/mini?username=gyanendra999&metric=commits&color=0e75b6" alt="Total commits" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=gyanendra999&theme=tokyonight&column=4&margin-w=10&no-frame=true" alt="trophies" />
-  </a>
+  <img src="https://ghstats.dev/api/sparkline?username=gyanendra999&days=30&width=500" alt="30-day activity" />
 </p>
 
 ---
