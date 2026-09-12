@@ -66,9 +66,18 @@
       </ul>
     </td>
     <td width="50%" valign="top">
-      <!-- Add your next featured project here the same way -->
-      <h4>➕ More coming soon</h4>
-      <p>Tell me another repo you'd like featured here and I'll fill this in the same way.</p>
+      <h4>🎁 <a href="https://github.com/Mobasheera/GiftGenius">GiftGenius</a></h4>
+      <p>An AI-powered, RAG-based gift recommendation system built at Innovathon 2025. It suggests personalized gifts based on interests, budget, and occasion, backed by a MySQL database and a Node.js/Express API. I worked as the frontend developer on this 4-person team project.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      </p>
+      <ul>
+        <li>RAG-based recommendation engine for smarter suggestions</li>
+        <li>Filters by budget, interest, and occasion</li>
+        <li>Frontend deployed on GitHub Pages, backend on Railway</li>
+      </ul>
     </td>
   </tr>
 </table>
