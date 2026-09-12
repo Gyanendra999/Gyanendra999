@@ -88,7 +88,6 @@
 
 <p align="center">
   <img src="https://ghstats.dev/api/card?username=gyanendra999&theme=tokyonight" alt="GitHub stats" height="170"/>
-  <img src="https://ghstats.dev/api/langs?username=gyanendra999&theme=tokyonight&layout=bar" alt="Top languages" height="170"/>
 </p>
 
 <p align="center">
@@ -100,7 +99,6 @@
 <p align="center">
   <img src="https://ghstats.dev/api/sparkline?username=gyanendra999&days=30&width=500" alt="30-day activity" />
 </p>
-
 ---
 
 ### 🐍 Contribution Snake
